@@ -27,7 +27,7 @@ def pixels_to_ascii(image):
 
 def main(new_width=100, new_height=None):
     # give image path
-    path = "./Untitled-2.jpg"
+    path = "./Untitled-5.jpg"
     try:
         image = Image.open(path)
     except:
