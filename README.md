@@ -37,6 +37,15 @@ python3 AsciiTextToImage.py
 ```
 The ASCII text should be stored in Ascii_image.png.
 
+## Examples 
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Sharif37/AsciiArt/blob/main/logo.png" alt="Original Image">
+    <img src="https://github.com/Sharif37/AsciiArt/blob/main/Ascii_image%20(copy).png" alt="Ascii Image">
+</div>
 
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Sharif37/AsciiArt/blob/main/Untitled-2.jpg" alt="Original Image">
+    <img src="https://github.com/Sharif37/AsciiArt/blob/main/Ascii_image.png" alt="Ascii Image">
+</div>
 
 
