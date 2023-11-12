@@ -4,7 +4,7 @@ The ASCII Art Generator is a Python project that allows you to convert images in
 
 ## Features
 
-- **Image to ASCII Art Conversion:** Convert images to ASCII art and save the result in a text file.
+- **Image to ASCII art:** Convert images to ASCII art and save the result in a text file.
 - **ASCII Text to Image:** Generate images from ASCII text stored in a text file.
 
 ## Setup
@@ -14,7 +14,7 @@ The ASCII Art Generator is a Python project that allows you to convert images in
    git clone https://github.com/Sharif37/AsciiArt.git
    cd AsciiArt
 
-## Make sure you have installed pillow
+## Make sure you have installed Pillow
  ```bash
  pip install Pillow
 ```
@@ -38,14 +38,18 @@ python3 AsciiTextToImage.py
 The ASCII text should be stored in Ascii_image.png.
 
 ## Examples 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Sharif37/AsciiArt/blob/main/logo.png" alt="Original Image">
+<p align="center">
+    <img src="https://github.com/Sharif37/AsciiArt/blob/main/logo.png" alt="Original Image" style="margin-right: 20 px;">
     <img src="https://github.com/Sharif37/AsciiArt/blob/main/Ascii_image%20(copy).png" alt="Ascii Image">
-</div>
+</p>
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Sharif37/AsciiArt/blob/main/Untitled-2.jpg" alt="Original Image">
-    <img src="https://github.com/Sharif37/AsciiArt/blob/main/Ascii_image.png" alt="Ascii Image">
-</div>
 
+
+<p align="center">
+    <img src="https://github.com/Sharif37/AsciiArt/blob/main/Untitled-5.jpg" height="500" width="300" alt="Original Image">
+    <img src="https://github.com/Sharif37/AsciiArt/blob/main/Ascii_image.png" height="500" width="400"  alt="Ascii Image">
+</p>
+
+
+## Ascii text will be here [Ascii_text](https://github.com/Sharif37/AsciiArt/blob/main/ascii_text.txt)
 
